@@ -16,7 +16,7 @@ export default class App extends Component {
     const terms = e.target.value.split(" ");
     const lastWord = terms[terms.length - 1];
 
-    fetch(`http://api.datamuse.com/words?rel_rhy=${lastWord}&md=d`)
+    fetch(`https://api.datamuse.com/words?rel_rhy=${lastWord}&md=d`)
       .then(res => {
         return res.json();
       })

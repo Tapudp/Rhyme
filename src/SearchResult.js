@@ -8,7 +8,7 @@ export default function SearchResult(props) {
         target="_blank"
         href={`https://www.dictionary.com/browse/${result.word}`}
         className="word"
-        rel="nooopener noreferer    "
+        rel="noopener noreferrer"
       >
         {result.word}
       </a>
