@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rhyme/static/css/main.3b111be7.chunk.css",
-    "main.js": "/Rhyme/static/js/main.c757c544.chunk.js",
-    "main.js.map": "/Rhyme/static/js/main.c757c544.chunk.js.map",
-    "runtime~main.js": "/Rhyme/static/js/runtime~main.072ba9a8.js",
-    "runtime~main.js.map": "/Rhyme/static/js/runtime~main.072ba9a8.js.map",
-    "static/js/2.37abbbee.chunk.js": "/Rhyme/static/js/2.37abbbee.chunk.js",
-    "static/js/2.37abbbee.chunk.js.map": "/Rhyme/static/js/2.37abbbee.chunk.js.map",
-    "index.html": "/Rhyme/index.html",
-    "precache-manifest.56ae3ffb259139c59828c01bfca2c0b2.js": "/Rhyme/precache-manifest.56ae3ffb259139c59828c01bfca2c0b2.js",
-    "service-worker.js": "/Rhyme/service-worker.js",
-    "static/css/main.3b111be7.chunk.css.map": "/Rhyme/static/css/main.3b111be7.chunk.css.map"
+    "main.css": "/findrhyme/static/css/main.3b111be7.chunk.css",
+    "main.js": "/findrhyme/static/js/main.6bf93bbd.chunk.js",
+    "main.js.map": "/findrhyme/static/js/main.6bf93bbd.chunk.js.map",
+    "runtime~main.js": "/findrhyme/static/js/runtime~main.e3af8e9a.js",
+    "runtime~main.js.map": "/findrhyme/static/js/runtime~main.e3af8e9a.js.map",
+    "static/js/2.37abbbee.chunk.js": "/findrhyme/static/js/2.37abbbee.chunk.js",
+    "static/js/2.37abbbee.chunk.js.map": "/findrhyme/static/js/2.37abbbee.chunk.js.map",
+    "index.html": "/findrhyme/index.html",
+    "precache-manifest.99b6a7e1aa658242383054b10261489b.js": "/findrhyme/precache-manifest.99b6a7e1aa658242383054b10261489b.js",
+    "service-worker.js": "/findrhyme/service-worker.js",
+    "static/css/main.3b111be7.chunk.css.map": "/findrhyme/static/css/main.3b111be7.chunk.css.map"
   }
 }
